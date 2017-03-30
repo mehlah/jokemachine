@@ -19,6 +19,7 @@ gem "skylight"
 gem "sprockets", ">= 3.0.0"
 gem "suspenders"
 gem "title"
+gem "twilio-ruby"
 gem "uglifier"
 
 group :development do
