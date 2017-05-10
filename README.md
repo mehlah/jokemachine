@@ -1,5 +1,7 @@
 # Jokemachine
 
+This is a companion repo for a live code session I did at http://webenvert.fr.
+
 ## Getting Started
 
 After you have cloned this repo, run this setup script to set up your machine
